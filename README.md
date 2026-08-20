@@ -14,7 +14,7 @@ Quick start
 1. Clone the repo
 
 ```bash
-git clone https://github.com/Himanshu-Kumar-LPU/Music-Playlist-Manager.git
+git clone https://github.com/Abhishek-KumarJha/Music-Playlist-Manager.git
 cd Music-Playlist-Manager
 ```
 
@@ -45,7 +45,7 @@ Files & structure
 - `server.js` — lightweight Express backend for OTP and API
 
 Deployment
-- The app is deployed and running at: https://music-playlist-manager-6jsq.onrender.com
+- The app is deployed and running at: coming soon...
 - For production deploys, build the app (`npm run build`) and host `/dist` on your static host; run the Express server (or use serverless functions) with appropriate environment variables for email/OTP.
 
 Environment variables
